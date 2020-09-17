@@ -1,6 +1,6 @@
 # Truffle_Petshop
 
-![Image of Yaktocat](box-img-lg-png)
+![Image of Yaktocat](box-img-lg.png?raw=true "Petshop")
 
 ## Ethereum Petshop Tutorial
 
