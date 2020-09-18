@@ -22,3 +22,19 @@ After unpack the petshop, we will have the structure as shown in this repo"
     * Contains both JS and Solidity tests for smart contracst
 * truffle-config.js
     * Truffle configuration file
+
+
+
+## Using the dapp
+
+start the local web server by running"
+
+```
+npm run dev
+```
+
+![Image of dapp](assets/dapp.png?raw=true "Petshop")
+
+the dev server will launch and automatically open a new browser tab containing your dapp, and a prompt asking for permission from metamask will pop out. 
+
+Allow the permission and try adopt pets by clicking buttons. The transaction details can be found on metamask.
